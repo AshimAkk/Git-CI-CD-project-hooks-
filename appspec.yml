@@ -1,8 +1,0 @@
-version: 0.0
-os: linux
-files：
-- source: /
-destination: /var/www/html
-
-## checking
-## is this going to work for the final time today
